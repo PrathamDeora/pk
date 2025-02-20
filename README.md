@@ -1,2 +1,2 @@
-# It is my first react Project
- Todo-List
+# Todo-List
+It is my first react Project
